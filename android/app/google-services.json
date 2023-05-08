@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76673808940",
+    "project_id": "phone-firebase-16500",
+    "storage_bucket": "phone-firebase-16500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76673808940:android:202deb6bf37f637b41ef89",
+        "android_client_info": {
+          "package_name": "com.example.video_downloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76673808940-6joq288ek37h4c64u7h1c75ijq6n4ift.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpRLWnOenGNdMRFSxmbKGViFX0JIea7S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76673808940-6joq288ek37h4c64u7h1c75ijq6n4ift.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
